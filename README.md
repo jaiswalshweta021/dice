@@ -1,6 +1,6 @@
 # dice
 import random
-print("This game to guess a number from the dice and then the dice is thrown. If you guesss the same number as outcome on the dice u won .If not ulose")
+print("This game to guess a number from the dice and then the dice is thrown. If you guess the same number as outcome on the dice you won .If not you lose")
 b,s=1,0
 while b==1:
     a=int(input("enter a number between 1 to 6:"))
